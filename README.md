@@ -1,4 +1,4 @@
-### Hey there! I'm Dane. 👋😄
+## Hey there! I'm Dane. 👋😄
 
 I live in Kansas. I'm a life long tech enthusiast. I love good food, video games, and coding! 
 
