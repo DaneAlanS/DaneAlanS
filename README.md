@@ -1,15 +1,36 @@
-## Hey there! I'm Dane. 👋😄
+# Hey there! I'm Dane. 👋 🤓
 
-I live in Kansas and I'm a life long tech enthusiast. I love good food, fishing, running, video games, and coding! 
+I'm an experienced IT pro and aspiring machine learning engineer based in Kansas. With over a decade in tech support and consulting, I've recently pivoted toward AI, Python development, and cybersecurity.
 
-### Get In Touch With Me!
-[![image](https://user-images.githubusercontent.com/6863079/211180193-b0afaeee-0a58-4016-9459-afcbdbc612f6.png)](mailto:daneasimoneau@gmail.com)
-[![image](https://user-images.githubusercontent.com/6863079/211180195-5cd313ec-31c8-4236-ad3a-d324df88ccc6.png)](https://www.linkedin.com/in/danesimoneau/)
+Whether I'm working on a text-based RPG in Python, diving into machine learning projects, or staying sharp with Andrew Ng's ML course, I'm always learning something new.
 
+I love great food, hiking, video games, and exploring the cutting edge of tech.
 
-### I Work With
-![image](https://user-images.githubusercontent.com/6863079/211180032-2d216c9c-f68a-4189-b06a-90e4acf82b7b.png)
-![image](https://user-images.githubusercontent.com/6863079/211180034-f08f3d15-62f0-4483-a3d5-af0e4f4208f5.png)
-![image](https://user-images.githubusercontent.com/6863079/211180035-db7104ec-bf2c-44c6-adb4-d09e42cdb20d.png)
-![image](https://user-images.githubusercontent.com/6863079/211180037-8d8c6d16-148b-4071-ac17-0829a4de68a0.png)
-![image](https://user-images.githubusercontent.com/6863079/211180041-fc7cd043-b54e-4b2b-a1eb-b6c07b5fd4bc.png) and many more!
+---
+
+## 📨 Get In Touch With Me!
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+
+---
+
+## 🧠 Currently Focused On
+- Building portfolio-ready machine learning projects
+- Completing Andrew Ng’s ML course
+- Developing a text-based RPG in Python
+- Exploring AI safety and responsible development
+- Leveling up my cybersecurity skills
+
+---
+
+## 🛠️ I Work With
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+
+... and always exploring more!
+
