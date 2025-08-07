@@ -2,16 +2,14 @@
 
 I'm an experienced IT pro and aspiring machine learning engineer based in Kansas. With over a decade in tech support and consulting, I've recently pivoted toward AI, Python development, and cybersecurity.
 
-Whether I'm working on a text-based RPG in Python, diving into machine learning projects, or staying sharp with Andrew Ng's ML course, I'm always learning something new.
-
 I love great food, hiking, video games, and exploring the cutting edge of tech.
 
 ---
 
 ## 📨 Get In Touch With Me!
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daneasimoneau@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danesimoneau/)
 
 ---
 
